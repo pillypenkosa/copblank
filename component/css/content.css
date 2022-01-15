@@ -101,17 +101,6 @@ component-content {
 	}
 
 
-
-
-
-
-
-
-
-
-
-
-
 	component-content .titleWin {
 		margin: 0 0 25px 0;
 		font-size: 30px;
@@ -119,6 +108,9 @@ component-content {
 	}
 
 
+	component-content #jsonTxt {
+		height: 0px;
+	}
 
 
 
