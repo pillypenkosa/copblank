@@ -110,6 +110,7 @@ component-content {
 
 	component-content #jsonTxt {
 		height: 0px;
+		width: 0px;
 	}
 
 
