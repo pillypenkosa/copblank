@@ -459,6 +459,8 @@ class ContentComponent {
             textArea.select();
             document.execCommand( 'copy' );
 
+            alert( 'Ви успішно скопіювали текст до буферу обміну...' );
+
 
 
 
