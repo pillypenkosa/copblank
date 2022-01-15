@@ -436,7 +436,7 @@ class ContentComponent {
             }
 
             if ( !data.fio ) {
-                alert( 'Оберіть прізвище...' );
+                alert( 'Оберіть прізвище (П.І.Б.)...' );
                 return;
             }
 
